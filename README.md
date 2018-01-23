@@ -11,3 +11,13 @@
 * Practice makes perfect and to Live to Learn
 
 
+#### 2.Abstraction in OOP And FP
+
+*   Abstraction is a concept that is familiar to us all from object-oriented programming.
+
+*   The difference is that object-oriented programming is mostly about abstracting over data.
+
+*   functional programming is mostly about abstracting over behavior.
+
+*   The real world has both of these things, and so we can and should learn from both influences.
+
