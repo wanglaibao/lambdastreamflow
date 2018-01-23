@@ -35,6 +35,10 @@ public class LambdaSyntax {
     }
 
 
+    public static String transform(String str,Function<String,String> stringFunction) {
+        return stringFunction.apply(str);
+    }
+
     public static void main(String[] args) {
         // This code does not compile
         //Object funObject = it -> it;
@@ -44,5 +48,9 @@ public class LambdaSyntax {
         BiFunction<String, String, String> concat = (a, b) -> a + b;
 
 
+
+        String stringValue = transform("wanlaibao",String::toUpperCase);
+
+        System.out.println(stringValue);
     }
 }
