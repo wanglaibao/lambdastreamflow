@@ -9,6 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>lambda</module>
+        <module>understanding_lambdas_in_java8</module>
     </modules>
     <packaging>pom</packaging>
 
