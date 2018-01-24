@@ -40,3 +40,5 @@
 
 * [State of the Lambda: Libraries Edition](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-libraries-final.html)
 
+* [Guava Functions & Java 8 Lambdas](http://codingjunkie.net/guava-functions-java-8-lambdas/)
+
