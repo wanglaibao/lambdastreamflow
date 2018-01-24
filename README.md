@@ -30,9 +30,13 @@
 
 * [Processing Data with Java SE 8 Streams, Part 1](http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html)
 
-* [MyBatis Sub Projects List](https://github.com/mybatis)
+* [Processing Data with Java SE 8 Streams, Part 2](http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
 
-* [An Introduction to iBatis (MyBatis)](https://javamagic.wordpress.com/2012/02/22/an-introduction-to-ibatis-mybatis-an-alternative-to-hibernate-and-jdbc/)
+* [Lambdas and Streams in Java 8](https://www.cs.cmu.edu/~charlie/courses/15-214/2014-fall/slides/26-java8.pdf)
 
-* [Mybatis3 从入门到精通](http://mybatis.tk/)
+* [Java 8 - Streams](https://www.tutorialspoint.com/java8/java8_streams.htm)
+
+* [Project Lambda](http://openjdk.java.net/projects/lambda/)
+
+* [State of the Lambda: Libraries Edition](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-libraries-final.html)
 
